@@ -17,5 +17,12 @@ body {
 }
 
 .about {
-  margin-top: 120px;
+  margin-top: 50px;
+}
+
+.jumbotron {
+  background-image: url("https://images.pexels.com/photos/2599116/pexels-photo-2599116.png");
+  background-size: cover;
+  opacity: 70%;
+  color: white;
 }

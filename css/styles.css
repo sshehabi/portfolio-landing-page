@@ -1,7 +1,12 @@
 img.serene {
-  height: 250px;
+  height: 225px;
   border-radius: 50%;
-  margin-top: 75px;
+  margin-top: -40px;
+  float: left;
+}
+
+.head {
+  float:right;
 }
 
 body {
@@ -10,4 +15,8 @@ body {
 
 .employer {
   color: grey;
+}
+
+.row {
+  margin-top: 50px;
 }

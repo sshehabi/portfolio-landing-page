@@ -31,4 +31,4 @@ Please reach out to Serene at thisisdefinitelymyemail@serene.com with any questi
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2019 **_{Serene Shehabi}_**
+Copyright (c) 2019 **_Serene Shehabi_**

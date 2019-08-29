@@ -28,3 +28,7 @@ body {
   color: rgba(100, 16, 86, 0.774);
   max-height: 275px;
 }
+
+.link {
+  color:rgba(58, 0, 58, 0.884);
+}

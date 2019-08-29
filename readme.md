@@ -15,7 +15,7 @@ This is an html webpage created as an indepent project following week 3 of the E
 
 **_or_**
 
-* View at sshehabi.github.io/portfolio
+* View at https://sshehabi.github.io/portfolio-landing-page/
 ## Support and contact details
 
 Please reach out to Serene at thisisdefinitelymyemail@serene.com with any questions, comments, or needed maintenence on this project.
